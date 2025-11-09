@@ -1,6 +1,12 @@
 # Contact Book
 <p>The purpose of this project is to introduce us to the basics of PHP and strengthen our programming skills. It is not an extensive project, but it does seek to fulfill the objective of offering beginner programmers a practical guide for learning how to work with this language.</p>
 
+## Project view
+<p align="center">
+<img src="https://github.com/DEVedwinivan/contact-book-php/blob/main/Readme_assets/contact-book.png" alt="Contact Book" width="50%">
+<img src="https://github.com/DEVedwinivan/contact-book-php/blob/main/Readme_assets/contact-book-form.png" alt="Contact Book" width="40%">
+</p>
+
 ## Requirements
 ```
 git clone https://github.com/DEVedwinivan/contact-book-php.git
